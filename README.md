@@ -66,7 +66,7 @@ Task master is a php based system designed for task management collaboration wit
 
 **Users**
 ![New User](screenshots/newUser.png)
-![All Users](screenshots/allUsers.png.png)
+![All Users](screenshots/allUsers.png)
 
 **Smart Commands**
 ![Smart Get](screenshots/smartGet.png)
