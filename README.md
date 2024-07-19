@@ -9,7 +9,7 @@ Task master is a php based system designed for task management collaboration wit
    ```bash
    git clone https://github.com/ixynGIT/task-management-system.git [YourDirectoryName]
     ```
-2. Directly download it as zip and extract it to your directory.
+2. Or directly download it as zip and extract it to your desired directory.
     
 3. If you use xampp make sure to put the folder in the `C:\xampp\htdocs\` in order for it to work.
 
