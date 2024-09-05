@@ -13,7 +13,7 @@ Task master is a php based system designed for task management collaboration wit
     
 3. If you use xampp make sure to put the folder in the `C:\xampp\htdocs\` in order for it to work.
 
-4. Turn on apache and mysql on xampp.
+4. Turn on both apache and mysql on xampp.
 
 5. Open your browser and input.
     ```bash
