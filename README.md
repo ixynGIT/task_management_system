@@ -1,5 +1,6 @@
 # TASK MASTER - TASK MANAGEMENT SYSTEM
-Task master is a php based system designed for task management collaboration within a team to boost productivity.  
+
+Task master is a php based system designed for task management collaboration within a team to boost productivity.
 
 <br />
 
@@ -8,38 +9,32 @@ Task master is a php based system designed for task management collaboration wit
 1. Clone the repository to your desired directory:
    ```bash
    git clone https://github.com/ixynGIT/task-management-system.git [YourDirectoryName]
-    ```
+   ```
 2. Or directly download it as zip and extract it to your desired directory.
-    
 3. If you use xampp make sure to put the folder in the `C:\xampp\htdocs\` in order for it to work.
 
 4. Turn on both apache and mysql on xampp.
 
 5. Open your browser and input.
-    ```bash
-    localhost/task_management_system
-    ```
+   ```bash
+   localhost/task_management_system
+   ```
 
 <br />
 
 ## Log in credentials
 
- 1. **Admin Access:**
-    
-    Email: ```admin@admin.com```  Password: ```admin123```
+1. **Admin Access:**
 
+   Email: `admin@admin.com` Password: `admin123`
 
 2. **Project Manager Access**
 
-    Email: ```plasabas@admin.com```  Password: ```123```
-
-
+   Email: `plasabas@admin.com` Password: `123`
 
 3. **Employee Access**
 
-    Email: ```plasabas@gmail.com```  Password: ```123```
-
-
+   Email: `plasabas@gmail.com` Password: `123`
 
 ### Screenshots
 
@@ -54,7 +49,6 @@ Task master is a php based system designed for task management collaboration wit
 ![View Project](screenshots/viewProject.png)
 ![All Projects](screenshots/allProjects.png)
 ![Project Priority Logs](screenshots/projectPriorityLogs.png)
-
 
 **Tasks**
 ![New Task](screenshots/newTask.png)
@@ -71,6 +65,3 @@ Task master is a php based system designed for task management collaboration wit
 **Smart Commands**
 ![Smart Get](screenshots/smartGet.png)
 ![Smart Delete](screenshots/smartDelete.png)
-
-
-
